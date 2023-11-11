@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209554004575",
+    "project_id": "authtut-511f5",
+    "storage_bucket": "authtut-511f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209554004575:android:c55b763755930b8950d9ea",
+        "android_client_info": {
+          "package_name": "com.example.log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3O3zD52HBA13_kQaQ2aLC6_1D6y1NApY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
